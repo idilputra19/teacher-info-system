@@ -1,0 +1,1 @@
+content of studentRoutes.js

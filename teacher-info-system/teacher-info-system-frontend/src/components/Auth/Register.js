@@ -1,0 +1,1 @@
+content of Register.js
